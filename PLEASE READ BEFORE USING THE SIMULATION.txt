@@ -1,0 +1,23 @@
+Hi!
+This is a short Instructions manual!
+
+The User should put the 3 files + the two reference Data files into the same folder
+
+Open the main.py file to run the code.
+
+Fill out all of the input fields within the GUI that will pop up. (If not needed, leave them as zero (0)).
+
+Press the Run Simulation button and wait for the simulation to finish. A statement will come up at the end
+showing how long the simulation has been running in real time, wait for that please.
+
+If the user wants to run the simulation again, or with different values, run the main.py file again.
+
+Additional help:
+
+ - Feel free to open all the other files to see how the code was written.
+
+ - If the Run Simulation button does not work, try pressing on a different input value with your mouse
+   and press  the Run Simulation button again. It should work.
+
+That is all!
+Have Fun!
